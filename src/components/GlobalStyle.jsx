@@ -16,8 +16,8 @@ export const GlobalStyle = createGlobalStyle`
     -moz-osx-font-smoothing: grayscale;
     background-image: radial-gradient(
     circle farthest-corner at 10% 20%,
-    #343541 0%,
-    #343541 90%
+    #565869 0%,
+    #565869 90%
   );
   color: #ffffff;
   }
@@ -37,7 +37,7 @@ h2 {
   margin: 0 auto;
   padding: 24px 0;
   text-align: center;
-  background-color: #343541;
+  background-color: #565869;
   box-shadow: 8px 8px 8px -8px #000000, -4px 0px 8px 0px #000000;
   margin-left: -16px;
   margin-right: -16px;

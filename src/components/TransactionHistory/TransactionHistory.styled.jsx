@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Table = styled.table`
   margin: 0 auto;
   border-radius: 4px;
-  background-color: #565869;
+  background-color: #343541;
   max-width: 80%;
   width: 80%;
 `;

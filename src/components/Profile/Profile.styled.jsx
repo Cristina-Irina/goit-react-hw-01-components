@@ -12,7 +12,7 @@ export const ProfileCard = styled.div`
   background-color: rgb(231, 231, 229);
   border-radius: 4px;
   box-shadow: 10px 10px 18px -12px #000000;
-  background: #565869;
+  background: #343541;
   cursor: pointer;
   transition: transform 250ms linear;
 

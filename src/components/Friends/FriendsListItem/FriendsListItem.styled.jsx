@@ -9,7 +9,7 @@ export const FriendItem = styled.li`
   max-width: 100%;
   width: 420px;
   border-radius: 4px;
-  background-color: #565869;
+  background-color: #343541;
   color: #dee0e0;
   box-shadow: 10px 10px 18px -12px #000000;
   font-weight: 600;
