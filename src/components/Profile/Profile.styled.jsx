@@ -56,14 +56,14 @@ export const UserName = styled.p`
 `;
 
 export const Tag = styled.p`
-  color: #000000;
+  color: #ffff;
   font-family: 'Roboto';
   font-size: 14px;
   font-weight: 400;
 `;
 
 export const Location = styled.p`
-  color: #000000;
+  color: #ffff;
   font-family: 'Roboto';
   font-size: 14px;
   font-weight: 400;
